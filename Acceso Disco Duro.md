@@ -19,4 +19,4 @@ Ya instalada la app
 
 ![](Screen Shot 2015-05-15 at 13.55.25.png)
 
-![](Screen Shot 2015-05-15 at 14.04.20.png)
+![![](Screen Shot 2015-05-15 at 14.04.34.png)](Screen Shot 2015-05-15 at 14.04.20.png)
