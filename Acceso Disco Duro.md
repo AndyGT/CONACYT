@@ -7,4 +7,10 @@ Configuras tu red
 
 ![](Screen Shot 2015-05-15 at 14.03.37.png)
 
+
 ![](Screen Shot 2015-05-15 at 13.55.16.png)
+
+
+Ya instalada la app 
+
+![](Screen Shot 2015-05-15 at 13.55.31.png)
