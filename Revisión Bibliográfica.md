@@ -87,7 +87,64 @@ International Journal of Database Theory and Application
     collection of images. Extensive experimental results illustrate the
     strengths and weaknesses of the approach.
 
-2. 
+2. Polatkan, Gungor, et al. **Detection of forgery in paintings using supervised learning.** Image Processing (ICIP), 2009 16th IEEE International Conference on. IEEE, 2009.
+
+    **Abstract(4)**This paper examines whether machine learning and image analysis
+    tools can be used to assist art experts in the authentication of unknown
+    or disputed paintings. Recent work on this topic [1] has presented
+    some promising initial results. Our reexamination of some of
+    these recently successful experiments shows that variations in image
+    clarity in the experimental datasets were correlated with authenticity,
+    and may have acted as a confounding factor, artificially improving
+    the results. To determine the extent of this factor’s influence on previous
+    results, we provide a new “ground truth” data set in which
+    originals and copies are known and image acquisition conditions are
+    uniform. Multiple previously-successful methods are found ineffective
+    on this new confounding-factor-free dataset, but we demonstrate
+    that supervised machine learning on features derived from Hidden-
+    Markov-Tree-modeling of the paintings’ wavelet coefficients has the
+    potential to distinguish copies from originals in the new dataset.
+3. Schwenker, Friedhelm, and Edmondo Trentin. **Pattern classification and clustering: A review of partially supervised learning approaches.** Pattern Recognition Letters 37 (2014): 4-14.
+
+    **Abstract(12)**The paper categorizes and reviews the state-of-the-art approaches to the partially supervised learning
+    (PSL) task. Special emphasis is put on the fields of pattern recognition and clustering involving partially
+    (or, weakly) labeled data sets. The major instances of PSL techniques are categorized into the following
+    taxonomy: (i) active learning for training set design, where the learning algorithm has control over the
+    training data; (ii) learning from fuzzy labels, whenever multiple and discordant human experts are
+    involved in the (complex) data labeling process; (iii) semi-supervised learning (SSL) in pattern classification
+    (further sorted out into: self-training, SSL with generative models, semi-supervised support vector
+    machines; SSL with graphs); (iv) SSL in data clustering, using additional constraints to incorporate expert
+    knowledge into the clustering process; (v) PSL in ensembles and learning by disagreement; (vi) PSL in
+    artificial neural networks. In addition to providing the reader with the general background and categorization
+    of the area, the paper aims at pointing out the main issues which are still open, motivating the ongoing
+    investigations in PSL research.
+4. Johnson, C. Richard, et al. **Image processing for artist identification.** Signal Processing Magazine, IEEE 25.4 (2008): 37-48.
+
+    **Abstract(15)**
+    A survey of the literature reveals that image processing tools aimed at supplementing the art historian's toolbox are currently in the earliest stages of development. To jump-start the development of such methods, the Van Gogh and Kroller-Muller museums in The Netherlands agreed to make a data set of 101 high-resolution gray-scale scans of paintings within their collections available to groups of image processing researchers from several different universities. This article describes the approaches to brushwork analysis and artist identification developed by three research groups, within the framework of this data set.
+
+5. Sun, Liang, et al. **Support vector description of clusters for content-based image annotation.** Pattern Recognition 47.3 (2014): 1361-1374.
+
+    **Abstarct(14)**Continual progress in the fields of computer vision and machine learning has provided opportunities to develop automatic tools for tagging images; this facilitates searching and retrieving. However, due to the complexity of real-world image systems, effective and efficient image annotation is still a challenging problem. In this paper, we present an annotation technique based on the use of image content and word correlations. Clusters of images with manually tagged words are used as training instances. Images within each cluster are modeled using a kernel method, in which the image vectors are mapped to a higher-dimensional space and the vectors identified as support vectors are used to describe the cluster. To measure the extent of the association between an image and a model described by support vectors, the distance from the image to the model is computed. A closer distance indicates a stronger association. Moreover, word-to-word correlations are also considered in the annotation framework. To tag an image, the system predicts the annotation words by using the distances from the image to the models and the word-to-word correlations in a unified probabilistic framework. Simulated experiments were conducted on three benchmark image data sets. The results demonstrate the performance of the proposed technique, and compare it to the performance of other recently reported techniques.
+6. Uzair, Muhammad, et al. **Representation Learning with Deep Extreme Learning Machines for Efficient Image Set Classification.** arXiv preprint arXiv:1503.02445 (2015).
+
+    **Abstract(10)** Efficient and accurate joint representation of a collection
+    of images, that belong to the same class, is a major research
+    challenge for practical image set classification. Existing
+    methods either make prior assumptions about the data
+    structure, or perform heavy computations to learn structure
+    from the data itself. In this paper, we propose an efficient
+    image set representation that does not make any prior assumptions
+    about the structure of the underlying data. We
+    learn the non-linear structure of image sets with Deep Extreme
+    Learning Machines (DELM) that are very efficient
+    and generalize well even on a limited number of training
+    samples. Extensive experiments on a broad range of public
+    datasets for image set classification (Honda/UCSD, CMU
+    Mobo, YouTube Celebrities, Celebrity-1000, ETH-80) show
+    that the proposed algorithm consistently outperforms stateof-
+    the-art image set classification methods both in terms of
+    speed and accuracy.
 
 
     
