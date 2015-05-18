@@ -5,15 +5,15 @@
 
 
 ####Tareas 
-1. Conectar el disco duro de EI ( se necesita un switch)
-2. Revisar cuántos archivos hay en el disco duro 
+1. Conectar el disco duro de Eficiencia Informativa ( se necesita un switch)
+2. Revisar cuántos archivos hay en el disco duro y cuánto pesan 
 2. Elaborar el script de carga en parallelo 
-3. 
+3. Elaborar la revisión de bibliografía 
 
 
 ####Admin 
 1. Revisar si se puede usar los servidores del ITAM para hospedar los datos
-2. 
+2. Pedir que nos conecten el switch y la tarjeta de red
 
 
 
