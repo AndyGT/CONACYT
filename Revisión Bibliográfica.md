@@ -39,5 +39,17 @@ International Journal of Database Theory and Application
     named the bag feature space. Finally, standard support vector machines are trained in the bag feature
     space. We provide experimental results on an image categorization problem and a drug activity
     prediction problem.
+1. Jafarpour, Sina, et al. **Stylistic analysis of paintings using wavelets and machine learning**. En European Signal Processing Conference. 2009. p. 1220-1224.
+
+    **ABSTRACT**
+    Wavelet transforms and machine learning tools can be used
+    to assist art experts in the stylistic analysis of paintings. A
+    dual-tree complex wavelet transform, Hidden Markov Tree
+    modeling and Random Forest classifiers are used here for a
+    stylistic analysis of Vincent van Gogh’s paintings with results
+    on two stylometry challenges that concern “dating, resp. ex-
+    tracting distinguishing features”.
+    
+
 
 
