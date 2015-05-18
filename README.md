@@ -8,7 +8,7 @@
 1. Conectar el disco duro de Eficiencia Informativa ( se necesita un switch)
 2. Revisar cuántos archivos hay en el disco duro y cuánto pesan 
 2. Elaborar el script de carga en parallelo 
-3. Elaborar la revisión de bibliografía 
+3. Elaborar la revisión de bibliografía (11 artículos)
 
 
 ####Admin 
